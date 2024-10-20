@@ -10,7 +10,7 @@ This website is built using HTML, CSS, and JavaScript.
 You can visit the site here: [ShopWin](https://simple-site-ShopWin.vercel.app/)
 
 
-# **************************
+
 
 # React + Vite
 
