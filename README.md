@@ -1,13 +1,14 @@
 
 # Simple ShopWin Website
 
-This website is built using HTML, CSS, and JavaScript.
+This website is built using HTML, CSS, JavaScript , React + Vite .
 
+![Technologies Used: HTML/ TailwindCSS / JS / React + Vite](ShopWin1.png)
 ![Technologies Used: HTML/ TailwindCSS / JS / React + Vite](ShopWin.png)
 
 ## Visit the Site
 
-You can visit the site here: [ShopWin](https://simple-site-ShopWin.vercel.app/)
+You can visit the site here: [ShopWin](https://web-site-shopwin.vercel.app/)
 
 
 
