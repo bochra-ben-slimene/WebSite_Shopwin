@@ -1,3 +1,17 @@
+
+# Simple ShopWin Website
+
+This website is built using HTML, CSS, and JavaScript.
+
+![Technologies Used: HTML/ TailwindCSS / JS / React + Vite](ShopWin.png)
+
+## Visit the Site
+
+You can visit the site here: [ShopWin](https://simple-site-ShopWin.vercel.app/)
+
+
+# **************************
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
